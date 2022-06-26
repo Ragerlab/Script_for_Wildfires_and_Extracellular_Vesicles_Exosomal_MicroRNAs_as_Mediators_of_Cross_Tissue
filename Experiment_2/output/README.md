@@ -1,0 +1,1 @@
+Output include the raw miRNA count data for genes expressed above background levels, raw miRNA count data and sample metadata for samples included in the analysis, and normalized count data on the analysis dataset, spanning normalized counts, pseudocounts, pseudo log2 counts, and variance stabalized counts. Additionally, statistical results of DESeq2 experiment are included.
