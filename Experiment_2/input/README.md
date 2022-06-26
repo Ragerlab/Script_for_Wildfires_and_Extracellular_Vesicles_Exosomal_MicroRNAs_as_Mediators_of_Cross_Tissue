@@ -1,0 +1,1 @@
+Input files include sample metadata (microRNAseq_ID_summaries_032821.csv), mRNA count data (batch0_mouse_miRNA_count.csv and batch1_mouse_miRNA_count.csv), and the specified contrasts to be run in the experiment (Table_of_Contrasts_032821.csv).
