@@ -88,14 +88,14 @@ library(janitor)
 #################################################################################################
 
 # Set working directory
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Wildfire/Experiments/Experiment_2/1_Input")
+setwd("Experiment_2/1_Input")
 getwd()
 
 # Create an output folder (make sure to make the folder first, and then point to it here)
-Output <- "/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Experiment_2/2_Output"
-Output_StatResults <- "/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Experiment_2/2_Output/StatResults"
-Output_Figures <- "/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Experiment_2/3_Figures"
-Output_RUV <- "/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Experiment_2/2_Output/StatResults_RUV"
+Output <- "Experiment_2/2_Output"
+Output_StatResults <- "Experiment_2/2_Output/StatResults"
+Output_Figures <- "/Experiment_2/3_Figures"
+Output_RUV <- "Experiment_2/2_Output/StatResults_RUV"
 cur_date <- "022821"
 
 #################################################################################################
